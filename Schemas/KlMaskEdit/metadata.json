@@ -1,0 +1,30 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "79d4caa3-bde7-45a9-b935-f5a6ac9de099",
+      "A2": "KlMaskEdit",
+      "A5": "b4f2dcd6-442a-4f3a-8678-fee94d5c66e0",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "1af42479-2932-4645-bdae-52388a1d6461",
+          "A2": "DefaultInvalidMessage",
+          "A3": "79d4caa3-bde7-45a9-b935-f5a6ac9de099",
+          "A4": "79d4caa3-bde7-45a9-b935-f5a6ac9de099",
+          "A5": "b4f2dcd6-442a-4f3a-8678-fee94d5c66e0"
+        }
+      ],
+      "B3": [],
+      "B6": "94f40aff-bcf6-4b56-a05a-5afc23c1647e",
+      "B8": "7.16.0.4461",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }
+}
