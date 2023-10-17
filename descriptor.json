@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "94f40aff-bcf6-4b56-a05a-5afc23c1647e",
+    "Name": "KL.MaskEdit",
+    "ModifiedOnUtc": "\/Date(1697572869000)\/",
+    "Maintainer": "Konstantin Lopatin",
+    "DependsOn": [
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      }
+    ]
+  }
+}
